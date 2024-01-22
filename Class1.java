@@ -17,4 +17,8 @@ public class Class1 {
         // v3.0
         //this is me making a change for f3()
     }
+
+    private void f4() {
+        // new feature in progress
+    }
 }
